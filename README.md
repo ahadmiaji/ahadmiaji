@@ -13,7 +13,7 @@
 &label=Profile%20views&color=0e75b6&style=flat” alt=“ahadmiaji
 ” /> </p>
 <h2 align=“center”> Assalamu's alaikum :blush: </h2>
-  <img align=“right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif” alt="ahadgif" width=“400" height=“300”/>
+  <img align=“right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif”  width=“400" height=“300”/>
 <div align=“left”>
 :male-technologist:: About Me:
 </div>
