@@ -6,21 +6,23 @@
     <img align=“center” src=“https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white” alt=“LinkedIn Badge”/>
   </a>
   <a href=“https://www.facebook.com/ahad.miaji”>
-    <img align=“center” src=“https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white” alt=“Twitter Badge”/>
+    <img align=“center” src=“https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white” alt=“Facebook Badge”/>
   </a>
 </div>
 <p align=“center” padding=“5px”> <img src=“https://komarev.com/ghpvc/?username=ahadmiaji
 &label=Profile%20views&color=0e75b6&style=flat” alt=“ahadmiaji
 ” /> </p>
 <h2 align=“center”> Assalamu's alaikum :blush: </h2>
-  <img align=“right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif” width=“400" height=“300”/>
+  <img align=“right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif” alt="ahadgif" width=“400" height=“300”/>
 <div align=“left”>
 :male-technologist:: About Me:
 </div>
 <div align=“left”>
-I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif” width=“30”> <p align=“left”>  I am a passionate learner. I am constantly developing my skills and growing professionally. I love to chat about tech, leave me a <br /> message here <a href=“https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCDCXHkpRwlCWDsxKJcFzxVzKtPTNGQWSlHjtlMfnvSQrXWXtxNDhpmjtVnmSqFqfMtFVV” target=“_blank”> :e-mail:</a></p>
+I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif” width=“30”> <p align=“left”>  I am a passionate learner. I am constantly developing my skills and growing </br> professionally. I love to chat about tech, leave me a <br /> message here <a href=“https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCDCXHkpRwlCWDsxKJcFzxVzKtPTNGQWSlHjtlMfnvSQrXWXtxNDhpmjtVnmSqFqfMtFVV” target=“_blank”> :e-mail:</a></p>
 - :telescope: Currently I’m working on **Node Js , Express , Mongodb**
+  </br>
 - :computer: In my free time,Exlpore new things and Read Blog.
+  </br>
 - :zap: Fun fact **I think i am talkative**
   </div>
 <br />
