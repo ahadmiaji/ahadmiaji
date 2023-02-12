@@ -1,27 +1,28 @@
-<div id=“header” align=“center”>
-  <img src=“https://media1.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif” width=“100"/>
+<div id="header" align="center" >
+  <img src="https://media1.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="100" /> 
 </div>
-<div id=“badges” align=“center”>
-  <a href=“https://www.linkedin.com/in/md-ahad-miaji-610830196/”>
-    <img align=“center” src=“https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white” alt=“LinkedIn Badge”/>
+
+  <div id="badges" align="center" >
+  <a href="https://www.linkedin.com/in/md-ahad-miaji-610830196/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
   </a>
-  <a href=“https://www.facebook.com/ahad.miaji”>
-    <img align=“center” src=“https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white” alt=“Facebook Badge”/>
+  <a href="https://www.facebook.com/ahad.miaji">
+    <img align="center" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<p align=“center” padding=“5px”> <img src=“https://komarev.com/ghpvc/?username=ahadmiaji
-&label=Profile%20views&color=0e75b6&style=flat” alt=“ahadmiaji
-” /> </p>
-<h2 align=“center”> Assalamualaikum 😊 </h2>                                                                                 
+<p align="center" padding="5px"> <img src="https://komarev.com/ghpvc/?username=ahadmiaji
+&label=Profile%20views&color=0e75b6&style=flat" alt="ahadmiaji"/> </p>
+<h2 align="center"> Assalamualaikum 😊 </h2>                                                                                 
                                                                                     
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" height="300" />
   
-<div align=“left”>
+<div align="left">
 👨‍💻 About Me:
 </div>
-<div align=“left”>
-I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif” width=“30”> 
-  <p align=“left”>  I am a passionate learner. I am constantly developing my skills and growing </br> professionally. I love to chat about tech, leave me a <br /> message here <a href=“https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCDCXHkpRwlCWDsxKJcFzxVzKtPTNGQWSlHjtlMfnvSQrXWXtxNDhpmjtVnmSqFqfMtFVV” target=“_blank”> :e-mail:</a></p>
+<div align="left">
+I’m Ahad, a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <p align="left">  I am a passionate learner. I am constantly developing my skills and growing </br> professionally. I love to chat about tech, leave me a <br /> message here <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCDCXHkpRwlCWDsxKJcFzxVzKtPTNGQWSlHjtlMfnvSQrXWXtxNDhpmjtVnmSqFqfMtFVV" target="_blank"> :e-mail:</a></p>
 - :telescope: Currently I’m working on **Node Js , Express , Mongodb**
   </br>
 - :computer: In my free time,Exlpore new things and Read Blog.
@@ -32,11 +33,11 @@ I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlpl
 
 
 
-<h3 align=“left”> :hammer_and_wrench: Languages and Tools : </h3>
+<h3 align="left"> :hammer_and_wrench: Languages and Tools : </h3>
 
 
-<p align=“left” ><img width=“48%” src=“https://github-readme-stats.vercel.app/api/top-langs?username=ahadmiaji&show_icons=true&locale=en&layout=compact&theme=tokyonight” alt=“ahadmiaji” /></p>
-<p align=“left”><img width=“48%” src=“https://github-readme-streak-stats.herokuapp.com/?user=ahadmiaji&theme=tokyonight” />
+<p align="left" ><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahadmiaji&show_icons=true&locale=en&layout=compact&theme=tokyonight” alt="ahadmiaji" /></p>
+<p align="left"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahadmiaji&theme=tokyonight" />
 </p>
 
 
