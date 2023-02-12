@@ -12,13 +12,16 @@
 <p align=“center” padding=“5px”> <img src=“https://komarev.com/ghpvc/?username=ahadmiaji
 &label=Profile%20views&color=0e75b6&style=flat” alt=“ahadmiaji
 ” /> </p>
-<h2 align=“center”> Assalamu's alaikum :blush: </h2>
-  <img align=“right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif”  width=“400" height=“300”/>
+<h2 align=“center”> Assalamualaikum 😊 </h2>                                                                                 
+                                                                                    
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" height="300" />
+  
 <div align=“left”>
-:male-technologist:: About Me:
+👨‍💻 About Me:
 </div>
 <div align=“left”>
-I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif” width=“30”> <p align=“left”>  I am a passionate learner. I am constantly developing my skills and growing </br> professionally. I love to chat about tech, leave me a <br /> message here <a href=“https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCDCXHkpRwlCWDsxKJcFzxVzKtPTNGQWSlHjtlMfnvSQrXWXtxNDhpmjtVnmSqFqfMtFVV” target=“_blank”> :e-mail:</a></p>
+I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif” width=“30”> 
+  <p align=“left”>  I am a passionate learner. I am constantly developing my skills and growing </br> professionally. I love to chat about tech, leave me a <br /> message here <a href=“https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCDCXHkpRwlCWDsxKJcFzxVzKtPTNGQWSlHjtlMfnvSQrXWXtxNDhpmjtVnmSqFqfMtFVV” target=“_blank”> :e-mail:</a></p>
 - :telescope: Currently I’m working on **Node Js , Express , Mongodb**
   </br>
 - :computer: In my free time,Exlpore new things and Read Blog.
@@ -26,11 +29,20 @@ I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlpl
 - :zap: Fun fact **I think i am talkative**
   </div>
 <br />
+
+
+
 <h3 align=“left”> :hammer_and_wrench: Languages and Tools : </h3>
+
+
 <p align=“left” ><img width=“48%” src=“https://github-readme-stats.vercel.app/api/top-langs?username=ahadmiaji&show_icons=true&locale=en&layout=compact&theme=tokyonight” alt=“ahadmiaji” /></p>
 <p align=“left”><img width=“48%” src=“https://github-readme-streak-stats.herokuapp.com/?user=ahadmiaji&theme=tokyonight” />
 </p>
+
+
 ###
+
+
 <div>
  
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
