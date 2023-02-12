@@ -13,7 +13,7 @@
 &label=Profile%20views&color=0e75b6&style=flat” alt=“ahadmiaji
 ” /> </p>
 <h2 align=“center”> Assalamu's alaikum :blush: </h2>
-  <img align=“right” src=“https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media” width=“400" height=“300”/>
+  <img align=“right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif” width=“400" height=“300”/>
 <div align=“left”>
 :male-technologist:: About Me:
 </div>
@@ -25,8 +25,8 @@ I’m Ahad, a Back-end Developer <img src=“https://media.giphy.com/media/WUlpl
   </div>
 <br />
 <h3 align=“left”> :hammer_and_wrench: Languages and Tools : </h3>
-<p align=“left” ><img width=“48%” src=“https://github-readme-stats.vercel.app/api/top-langs?username=ridowanahad&show_icons=true&locale=en&layout=compact&theme=tokyonight” alt=“ridowanahad” /></p>
-<p align=“left”><img width=“48%” src=“https://github-readme-streak-stats.herokuapp.com/?user=ridowanahad&theme=tokyonight” />
+<p align=“left” ><img width=“48%” src=“https://github-readme-stats.vercel.app/api/top-langs?username=ahadmiaji&show_icons=true&locale=en&layout=compact&theme=tokyonight” alt=“ahadmiaji” /></p>
+<p align=“left”><img width=“48%” src=“https://github-readme-streak-stats.herokuapp.com/?user=ahadmiaji&theme=tokyonight” />
 </p>
 ###
 <div>
